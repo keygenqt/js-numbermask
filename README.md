@@ -1,8 +1,7 @@
 [NumberMask](https://keygenqt.com/work/js-numbermask)
 ===================
 
-![GitHub](https://img.shields.io/github/license/keygenqt/yii2-fancyBox3)
-![Packagist Downloads](https://img.shields.io/packagist/dt/keygenqt/yii2-fancyBox3)
+![GitHub](https://img.shields.io/github/license/keygenqt/js-numbermask)
 
 Jquery plugin for digital-mask input
 
