@@ -3,7 +3,7 @@
 
 ![GitHub](https://img.shields.io/github/license/keygenqt/js-numbermask)
 
-Jquery plugin for digital-mask input
+Jquery plugin for mask desktop input
 
 ## Usage
 
