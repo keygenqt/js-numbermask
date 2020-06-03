@@ -18,7 +18,7 @@ $('#id2').numbermask({
     mask: "####-####-####-####"
 });
 
-// date
+// cvc
 $('#id3').numbermask({
     mask: "####"
 });
